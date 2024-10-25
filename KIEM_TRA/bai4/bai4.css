@@ -108,12 +108,12 @@ video {
 
 .button-right {
     display: flex;
-    gap: 16px;
+    gap: 20px;
 }
 
 .button-left {
     display: flex;
-    gap: 16px;
+    gap: 40px;
 }
 
 .time-flex {
